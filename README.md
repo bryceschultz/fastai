@@ -101,7 +101,7 @@
     * Video: []
     * Reading: []
     * Questionnaire: []
-25. Letent diffusion
+25. Latent diffusion
     * Video: []
     * Reading: []
     * Questionnaire: []
